@@ -1,0 +1,258 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "name": "admin admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "admin2",
+      "name": "admin admin2",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "admin3",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "admin4",
+      "name": "admin4",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "admin5",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "admin6",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "admin7",
+      "name": "gbdfxvdf",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "admin8",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "admin9",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "admin10",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "admin11",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "admin",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "erfgrfdv"
+    },
+    {
+      "id": "admin12",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "admin13",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "admin14",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "admin15",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "meltem",
+      "name": "meltem savaş",
+      "email": "admin@gmail.com",
+      "password": "meltem"
+    }
+  ],
+  "cars": [
+    {
+      "carName": "BMW F30",
+      "carPhoto": "https://www.auto-data.net/images/f61/BMW-3-Series-Sedan-F30.jpg",
+      "model": "2.0",
+      "marka": "BMW",
+      "fiyat": "814400",
+      "modelYili": 2024,
+      "km": 8991,
+      "vitesTipi": "Manuel",
+      "yakitTipi": "Benzin",
+      "kdv": "KDV %20",
+      "renk": "Beyaz",
+      "lokasyon": "Adana",
+      "id": "57c3"
+    },
+    {
+      "carName": "HYUNDAI CLIO",
+      "carPhoto": "https://www.auto-data.net/images/f61/BMW-3-Series-Sedan-F30.jpg",
+      "model": "1.0 SCe Joy",
+      "marka": "HYUNDAI",
+      "fiyat": "637400",
+      "modelYili": 2022,
+      "km": 338991,
+      "vitesTipi": "Otomatik",
+      "yakitTipi": "Benzin",
+      "kdv": "KDV %20",
+      "renk": "Siyah",
+      "lokasyon": "İstanbul",
+      "id": "af18"
+    },
+    {
+      "carName": "BMW X3",
+      "carPhoto": "https://www.auto-data.net/images/f61/BMW-3-Series-Sedan-F30.jpg",
+      "model": "2.0 sDrive Exclusive",
+      "marka": "BMW",
+      "fiyat": "1674500",
+      "modelYili": 2023,
+      "km": 38991,
+      "vitesTipi": "Manuel",
+      "yakitTipi": "Benzin",
+      "kdv": "KDV %20",
+      "renk": "Siyah",
+      "lokasyon": "Adana",
+      "id": "6adb"
+    },
+    {
+      "carName": "TOYOTA HI-LUX",
+      "carPhoto": "https://www.auto-data.net/images/f61/BMW-3-Series-Sedan-F30.jpg",
+      "model": "2.4 D-4D 4X4 Invi",
+      "marka": "TOYOTA",
+      "fiyat": "754300",
+      "modelYili": 2010,
+      "km": 438991,
+      "vitesTipi": "Manuel",
+      "yakitTipi": "Dizel",
+      "kdv": "KDV %20",
+      "renk": "Beyaz",
+      "lokasyon": "Ankara",
+      "id": "66a9"
+    },
+    {
+      "carName": "HYUNDAI Megane",
+      "carPhoto": "https://www.odakikinciel.com/B2ELResim/AracResim2El/5393/4cb6e92d-5b02-4836-99f7-2810740eda5e_Buyuk.jpg",
+      "model": "1.3 Tce Joy",
+      "marka": "HYUNDAI",
+      "fiyat": "849400",
+      "modelYili": 2016,
+      "km": 38993,
+      "vitesTipi": "Otomatik",
+      "yakitTipi": "Dizel",
+      "kdv": "KDV %20",
+      "renk": "Kırmızı",
+      "lokasyon": "Ankara",
+      "id": "ee18"
+    },
+    {
+      "carName": "CHEVROLET CRUZE",
+      "carPhoto": "https://i0.shbdn.com/photos/41/85/77/x5_1147418577sw1.jpg",
+      "model": "1.6 LS",
+      "marka": "CHEVROLET",
+      "fiyat": "515100",
+      "modelYili": 2014,
+      "km": 238991,
+      "vitesTipi": "Manuel",
+      "yakitTipi": "Benzin",
+      "kdv": "KDV %20",
+      "renk": "Siyah(Mat)",
+      "lokasyon": "Ankara",
+      "id": "c25f"
+    },
+    {
+      "carName": "CHEVROLET Aveo",
+      "carPhoto": "https://i0.shbdn.com/photos/41/85/77/x5_1147418577sw1.jpg",
+      "model": "1.2 LS",
+      "marka": "CHEVROLET",
+      "fiyat": "379000",
+      "modelYili": 2014,
+      "km": 238991,
+      "vitesTipi": "Manuel",
+      "yakitTipi": "Benzin",
+      "kdv": "KDV %20",
+      "renk": "Kırmızı",
+      "lokasyon": "Ankara",
+      "id": "a25f"
+    },
+    {
+      "carName": "DACIA Sandero",
+      "carPhoto": "https://i0.shbdn.com/photos/41/85/77/x5_1147418577sw1.jpg",
+      "model": "0.9 TCe",
+      "marka": "DACIA",
+      "fiyat": "656100",
+      "modelYili": 2014,
+      "km": 238991,
+      "vitesTipi": "Otomatik",
+      "yakitTipi": "Benzin",
+      "kdv": "KDV %20",
+      "renk": "Siyah(Mat)",
+      "lokasyon": "İstanbul",
+      "id": "c35f"
+    },
+    {
+      "carName": "DACIA Lodgy",
+      "carPhoto": "https://i0.shbdn.com/photos/41/85/77/x5_1147418577sw1.jpg",
+      "model": "1.5 BlueDCI",
+      "marka": "DACIA",
+      "fiyat": "695100",
+      "modelYili": 2014,
+      "km": 278561,
+      "vitesTipi": "Manuel",
+      "yakitTipi": "Benzin",
+      "kdv": "KDV %20",
+      "renk": "Beyaz",
+      "lokasyon": "Adana",
+      "id": "c27f"
+    },
+    {
+      "carName": "HYUNDAI Symbol",
+      "carPhoto": "https://i0.shbdn.com/photos/41/85/77/x5_1147418577sw1.jpg",
+      "model": "0.9 TCe",
+      "marka": "HYUNDAI",
+      "fiyat": "489900",
+      "modelYili": 2014,
+      "km": 278561,
+      "vitesTipi": "Manuel",
+      "yakitTipi": "Benzin",
+      "kdv": "KDV %20",
+      "renk": "Beyaz",
+      "lokasyon": "Ankara",
+      "id": "c24b"
+    }
+  ]
+}
